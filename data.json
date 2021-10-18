@@ -1,0 +1,98 @@
+{
+    "evaluation1": {
+        "name": "Chemistry Test",
+        "qty": 5,
+        "questions": [
+            {
+                "question": "How many unpaired electrons are there in a ground-state titanium atom",
+                "answer": "option2",
+                "options": [
+                    {
+                        "value": "option1", "label": "0"
+                    },
+                    {
+                        "value":"option2", "label": "1"
+                    },
+                    {
+                        "value":"option3", "label": "2"
+                    },
+                    {
+                        "value":"option4", "label": "3"
+                    }
+                ]
+            },
+            {
+                "question": "The separatee of ions in a mass spectrometer is fully determined by the",
+                "answer": "option4",
+                "options": [
+                    {
+                        "value":"option1", "label": "charge of the ions"
+                    },
+                    {
+                        "value":"option2", "label": "mass of the ions"
+                    },
+                    {
+                        "value":"option3", "label": "number of the ions"
+                    },
+                    {
+                        "value":"option4", "label": "mass-to-charge ratio of the ions"
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following substances is NOT a Good oxidizing agent",
+                "answer": "option3",
+                "options": [
+                    {
+                        "value":"option1", "label": "oxygen"
+                    },
+                    {
+                        "value":"option2", "label": "hydrogen peroxide"
+                    },
+                    {
+                        "value":"option3", "label": "sodium"
+                    },
+                    {
+                        "value":"option4", "label": "chlorine"
+                    }
+                ]
+            },
+            {
+                "question": "One liter-atmosphere is approximately how many joules",
+                "answer": "option1",
+                "options": [
+                    {
+                        "value":"option1", "label": "100 J"
+                    },
+                    {
+                        "value":"option2", "label": "1.0 J"
+                    },
+                    {
+                        "value":"option3", "label": "0.01 J"
+                    },
+                    {
+                        "value":"option4", "label": "10 J"
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following types of compounds does NOT contain a carbonyl group",
+                "answer": "option3",
+                "options": [
+                    {
+                        "value":"option1", "label": "carboxylic acid"
+                    },
+                    {
+                        "value":"option2", "label": "ethyl ester"
+                    },
+                    {
+                        "value":"option3", "label": "primary amine"
+                    },
+                    {
+                        "value":"option4", "label": "primary amide"
+                    }
+                ]
+            }
+        ]
+    }
+}
