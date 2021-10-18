@@ -24,16 +24,8 @@ def get_evaluation(id):
     return data[id]
 
 
-@app.after_request # blueprint can also be app~~
-def after_request(response):
-    header = response.headers
-    header['Access-Control-Allow-Origin'] = '*'
-    header["Access-Control-Allow-Headers"] = "*"
-    header["Content-Type"] = "application/json"
-    return response
-
-
 @app.route('/')
+@cross_origin()
 def serve():
     return send_from_directory(app.static_folder, 'index.html')
 

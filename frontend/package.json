@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A Quasar Framework app",
   "productName": "Quasar App",
-  "proxy": "http://127.0.0.1:5000/",
+  "proxy": "https://nameless-brushlands-14170.herokuapp.com/",
   "author": "Mateo Salcedo Rodriguez",
   "private": true,
   "scripts": {
